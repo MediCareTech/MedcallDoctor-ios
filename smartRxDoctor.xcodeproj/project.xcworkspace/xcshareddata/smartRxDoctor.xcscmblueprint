@@ -1,0 +1,55 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608+++4B512D9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++6F8BE6D" : {
+
+    },
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++25212AA" : {
+
+    },
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++D3AF455" : {
+
+    },
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++4B512D9" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++6F8BE6D" : 0,
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++25212AA" : 0,
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++D3AF455" : 0,
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++4B512D9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AB1829D9-6BF5-4FB2-A0B7-0F4D8F51DA94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++6F8BE6D" : "ios_smartrx_doctor%202\/",
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++25212AA" : "ios_smartrx_doctor",
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++D3AF455" : "ios_smartrx_doctor",
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608+++4B512D9" : "ios_smartrx_doctor%202%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "smartRxDoctor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "smartRxDoctor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608+++25212AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608+++4B512D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608+++6F8BE6D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608+++D3AF455"
+    }
+  ]
+}

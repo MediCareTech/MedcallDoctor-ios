@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608" : {
+
+    },
+    "53fd8307-64d9-470f-9539-774fcfbda258++4371" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608" : 0,
+    "53fd8307-64d9-470f-9539-774fcfbda258++4371" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C5FFA1AA-992E-41E8-A863-A4D50561F191",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53fd8307-64d9-470f-9539-774fcfbda258++4608" : "ios_smartrx_doctor%202%202\/",
+    "53fd8307-64d9-470f-9539-774fcfbda258++4371" : "..\/..\/..\/Desktop\/My%20Apps\/SVN-Engage\/Ios_Patient_September"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "smartRxDoctor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "smartRxDoctor.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4371"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/dapps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53fd8307-64d9-470f-9539-774fcfbda258++4608"
+    }
+  ]
+}
